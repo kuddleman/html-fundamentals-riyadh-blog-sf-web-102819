@@ -11,19 +11,15 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  color: black;
 }
 
 .wrapper {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
-  color: white;
+
 }
-
-
-
-
-
 
 
 #content {
@@ -36,16 +32,14 @@ body {
 
 
 .wrapper-header h1,h2 {
-  color: white;
+
 }
 
 .wrapper h1, h2, {
-  color: black;
+
 }
 
-.wrapper p {
-  color: black;
-}
+
 
 h1 {
   font-size: 3.5em;
