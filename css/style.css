@@ -32,7 +32,9 @@ body {
 
 
 
-
+.wrapper h1, h2 {
+  color: black;
+}
 
 h1 {
   font-size: 3.5em;
