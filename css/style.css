@@ -20,7 +20,7 @@ body {
   color: white;
 }
 
-.wrapper-header {
+.wrapper-header h1, h2 {
   color: white;
 }
 
