@@ -20,9 +20,7 @@ body {
   color: white;
 }
 
-.wrapper-header h1 {
-  color: white;
-}
+
 
 
 
@@ -37,6 +35,10 @@ body {
 
 .wrapper h1, h2, p{
   color: black;
+}
+
+.wrapper-header h1, h2 {
+  color: white;
 }
 
 h1 {
