@@ -33,12 +33,14 @@ body {
 
 
 
-.wrapper h1, h2, {
-  color: white;
-}
+
 
 .wrapper-header h1,h2 {
   color: white;
+}
+
+.wrapper h1, h2, {
+  color: black;
 }
 
 .wrapper p {
